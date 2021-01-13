@@ -1,1 +1,1 @@
-# machinelearning
+# imx6ull linux learning
